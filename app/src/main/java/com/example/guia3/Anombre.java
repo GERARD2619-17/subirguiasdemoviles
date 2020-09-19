@@ -13,7 +13,7 @@ import android.widget.ProgressBar;
 import static com.example.guia3.MainActivity.listanombres;
 
 public class Anombre extends AppCompatActivity implements View.OnClickListener {
-
+//laboratorio 3
     EditText editname;
     Button btnAgregar;
     ProgressBar progressBar;;
