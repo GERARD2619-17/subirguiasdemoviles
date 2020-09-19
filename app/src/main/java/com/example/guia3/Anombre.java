@@ -44,7 +44,6 @@ public class Anombre extends AppCompatActivity implements View.OnClickListener {
         String nombrelista = editname.getText().toString();
         listanombres.add(nombrelista);
     }
-//laboratorio
     void enviarData(){
         final ProgressBar progressBar = findViewById(R.id.progressBar);
         progressBar.setProgress(0);
