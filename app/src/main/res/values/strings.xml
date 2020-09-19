@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">guia3</string>
+    //empezaremos a agregar los botones necesarios para poder interactuar
+    <string name="btnverlista">Ver lista</string>
+    <string name="btnnombre">Agregar nombre</string>
+    <string name="btndatos">Mis datos</string>
+    // agregaremos los datos de la otra activity
+    <string name="labelnombre">Nombre:</string>
+    <string name="editname">Ingrese su nombre</string>
+    <string name="btnAgregar">Agregar nombre</string>
+</resources>
